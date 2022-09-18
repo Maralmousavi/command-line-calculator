@@ -1,4 +1,4 @@
-# Simple Terminal Claculator
+# Simple Command Line Claculator
 
 # Import 'math' 'sys' Libraries
 import math , sys
